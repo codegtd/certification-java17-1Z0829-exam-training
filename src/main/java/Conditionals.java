@@ -1,6 +1,6 @@
 
 
-public class Test1 {
+public class Conditionals {
   public static void main(String[] args) {
 
     var hasParams = (args == null ? false : true);
